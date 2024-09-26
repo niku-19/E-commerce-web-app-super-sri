@@ -81,7 +81,7 @@ const Address = () => {
     }
 
     const options = {
-      key: "rzp_test_VzBs1Ez8HO9Xsa",
+      key: "rzp_test_GH1hPdm0wyN9Hj",
       currency: "INR",
       amount: amount * 100,
       name: "SuperSri",
